@@ -1,0 +1,26 @@
+I"<p>Brief description of why Jekyll and Github-Pages form a great combo for a static blog site free-of-cost.</p>
+
+<p><img src="/images/jekyll-logo-light-solid.png" alt="_config.yml" /></p>
+
+<p>Jekyll is a simple static site generator written in Ruby by Tom Preston-Werner, GitHub’s co-founder.</p>
+<h2 id="few-advantages-of-jekyll">Few Advantages Of Jekyll</h2>
+<ul>
+  <li>
+    <h3 id="requires-no-database">Requires no database</h3>
+    <p>All posts and pages in Jekyll are converted to static HTML prior to publication. This significantly reduces complexity that databases may introduce.</p>
+  </li>
+  <li>
+    <h3 id="speed">Speed</h3>
+    <p>Due to the lack of database calls when a page is loaded, the loading speed of the page is improved.</p>
+  </li>
+  <li>
+    <h3 id="security">Security</h3>
+    <p>Vulnerabilities are greatly reduced as there is no CMS or database which requires frequent security updates.</p>
+  </li>
+  <li>
+    <h3 id="free-and-convenient-hosting">Free and Convenient hosting</h3>
+    <p>Lastly, Github Pages allows one user website to be hosted for free. Github directly builds and hosts the website. This means that the user doesn’t even need to install Ruby on their local system.
+<img src="/images/github_pages.png" alt="_config.yml" /></p>
+  </li>
+</ul>
+:ET
