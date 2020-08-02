@@ -108,13 +108,16 @@ strong, b {
 
 img {
   max-width: 100%;
+  text-align: center;
 }
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
 }
-
+.center {
+    text-align: center;
+}
 .date {
   font-style: italic;
   color: $gray;
