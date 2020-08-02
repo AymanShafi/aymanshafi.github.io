@@ -21,3 +21,4 @@ Lastly, [Github Pages](https://pages.github.com/ "Github Pages") allows one user
 ![_config.yml]({{ site.baseurl }}/images/github_pages.jpg)
 
 For a detailed guide to set up your own Jekyll blog post website, follow this [tutorial](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/ "Tutorial"){:target="_blank"}
+
