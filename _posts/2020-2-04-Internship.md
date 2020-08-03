@@ -13,9 +13,9 @@ I was hired in the month of January 2020 along with my classmate [Anant Moudgaly
 
 * NoSQL databases - Learning how reverse indexing works was a joy! The significant performance enhancements NoSQL databases provide were greatly helpful for our use case, as it involved searching through hundreds and thousands of files.
 
-* Designing desktop applications using Python - Although [tkinter](https://docs.python.org/3/library/tkinter.html "Python tkinter") has limited design customisation, functionality wise it covered almost everything we needed (Except *tag based input!*). Its light-weightedness helped to an good extent.
+* Designing desktop applications using Python - Although [tkinter](https://docs.python.org/3/library/tkinter.html "Python tkinter") has limited design customisation, functionality wise it covered almost everything we needed (Except *tag based input!*). Its light-weightedness helped to a good extent.
 
-* Making use of APIs - Using the theoretical knowledge taught from college in creating a reading request and response headers was a satisfactory experience. I used *Postman* to test APIs and create a mapping between the API and functionality it provides. 
+* Making use of APIs - Using the theoretical knowledge taught from college in creating and reading request and response headers was a satisfactory experience. I used *Postman* to test APIs and create a mapping between the API and functionality it provides. 
 
 * SDLC processes like testing, logging and Daily Scrum - I wrote test cases and logged everything useful according to its log level. Daily discussions with the CTO [Roshan Hadal](https://www.linkedin.com/in/roshanhadal "Roshan Hadal") were a great indicator of whether or not I was going in the direction. He also guided us every time we were stuck with an issue for a long time. 
 
